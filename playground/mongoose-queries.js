@@ -1,7 +1,7 @@
 
 
 var { mongoose } = require('./../server/db/mongoose');
-// var { Todo } = require('./../server/models/todos');
+var { Todo } = require('./../server/models/todos');
 var { User } = require('./../server/models/user')
 
 
